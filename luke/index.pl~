@@ -1,0 +1,46 @@
+#!/usr/bin/perl
+
+use Date::Manip;
+
+$today = &ParseDate("today");
+$y2k = &ParseDate("Jun 9th 2006");
+$delta = &DateCalc($today, $y2k, \$err);
+my $daystogo = &Delta_Format($delta, 1, "%dt");
+$daystogo = int($daystogo);
+use CGI;
+print CGI::header();
+
+print qq(
+<html>
+<head>
+<title>
+Its a monkey. And a spoon!
+</title>
+</head>
+<body bgcolor="#eef2ff">
+<center>
+<a href="http://fifaworldcup.yahoo.com/06/en/index.html"><h2>Only $daystogo days to go until the greatest show on earth!</h2></a><br>
+<img src="/images/present.gif"></center><br>
+<p size="10" align="right">Heading Copyright 2005 Talldude.</p><br>
+
+<font color="red" size="16">Paul likes the colours.</font><br>
+<font color="#00eeaa" size="16">Liz might like these colors better though...</font>
+<h1>Spoon</h1><br>
+<img src="/images/spoon.gif"><br><br>
+<h1>Fed</h1><br>
+<img src="/images/david_duchovny3.jpg"><br><br>
+<h1>Monkey</h1><br>
+<img src="/images/monkey.jpg"><br><br>
+<h1>!!</h1>
+<img src="coffeemansean.jpg" width="150" height="150"><br>
+<br>
+And now, a word from Ralf:<br>
+<img src="http://myspace-212.vo.llnwd.net/00312/21/22/312272212_l.jpg">
+<br>
+<br>
+</body>
+</html>
+
+
+
+	 );

@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>How well do you know Homer?</head>
+<style>
+body, p, div, table, td {
+font-family: arial, helvetica, sans-serif;
+font-size: : 83%/1.5;
+}
+
+h2 {
+font-size: 200%;
+letter-spacing: -1px;
+font-weight: normal;
+color: #3d3530;
+}
+
+p {
+font-size: 105%;
+}
+
+div.center {
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+</style>
+</head>
+<body>
+<div class="center">
+<h2>What does Homer say to Ned when he is high?</h2>
+<p>Tell us <a href="mailto:muz@myspoonfedmonkey.com">here</a>
+
+
+
+</div>
+</body>
+</html>
+

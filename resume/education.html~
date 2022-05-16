@@ -1,0 +1,231 @@
+<html>
+<head>
+<meta content="blendTrans(Duration=1)" http-equiv="Page-Enter">
+</head>
+
+<body bgcolor="#a8afea">
+<img src="cornice.gif" align="left" hspace="0" vspace="0">
+<img src="corniceright.gif" align="right" hspace="0" vspace="0">
+<center>
+<br />
+<br />
+<font size="+4">Education</font>
+<br />
+
+<table width="60%">
+<tr>
+<td>
+<ul>
+<li> <b> <a href="VCE.gif" target="_blank">Secondary School </a></b> 
+       <ul>
+          <li>Maryborough Regional College 1995-2000</li>
+          <li>Finished VCE with an ENTER of 85.2 </li>
+          <li>Final year studies
+             <ul>
+               <li> Specialist Mathematics 3&4</li>
+               <li> English 3&4 </li>
+               <li> Physics 3&4 </li>
+               <li> Psychology 3&4 </li>
+               <li> MUPHAS(Melbourne University Program for High Achieving Students) - Programming Basics </li>
+             </ul>
+          </li> 
+      </ul>
+ </li>
+  <br />
+<li> <b> University - Bachelor of Information Technology(Software Development)</b> 
+       <ul>
+          <li>La Trobe university - Bendigo Campus 2001-2003</li>
+          <li>Graduating late November 2003 </li>
+          <li>24 units undertaken.
+             <ul> 
+              	<li>COMPUTER TECHNOLOGY
+                <ul>
+                  <li> Mark - B </li>
+                  <li> An introduction to computer hardware and operating systems.  Topics include virtual memory, registry operation and periphial devices. </li>
+                </ul>
+                
+        	<li>IT FUNDAMENTALS 
+                <ul>
+                  <li> Mark - A </li>
+                  <li> Basic operations using a PC.  Topics include Advanced Spreadsheets, Advanced Database(Access) and Advanced html. </li>
+                </ul>
+                </li> 
+		<li>PROGRAMMING CONCEPTS 
+                <ul>
+                  <li> Mark - A </li>
+                  <li> Programming using Java V1.2.1.  Topics include GUI construction and basic data stores. </li>
+                </ul>
+                </li>
+		<li>CALCULUS 1 
+                <ul>
+                  <li> Mark - D </li>
+                  <li> Working with advanced mathematical calculus. </li>
+                </ul>
+                </li>
+		<li>MEDIEVAL STUDIES 
+                <ul>
+                  <li> Mark - B </li>
+                  <li> A subject devoted to the time between around 600AD and 1400AD. Topics include the crusades, cathedral construction and much, much more. </li>
+                </ul>
+                </li>
+		<li>INFORMATION SYSTEMS
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Focuses on the processes involved in creating and maintaining and information system.  Topics include the systems development life cycle, data flow designs and prototyping. </li>
+                </ul>
+                </li>
+		<li>DATA STRUCTURES 
+                <ul>
+                  <li> Mark - A </li>
+                  <li> Programming in Java 1.2.1 with more focus on advanced programming data stores.  Topic include queues and stacks and binary search trees, inheritance and data I/O. </li>
+                </ul>
+                </li> 
+		<li>DISCRETE MATHEMATICS 
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Study of mathematics with a focus on computing.  Topics include predicate logic, binary and hexadecimal calculations and  </li>
+                </ul>
+                </li>
+ 
+              	<li>COMPUTER NETWORKS
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Overview of computer networking, with focus on the software involved.  Topics include TCP/IP, data security and e-commerce. </li>
+                </ul> 
+              	<li>INFORMATION SYSTEMS DEVELOPMENT
+                <ul>
+                  <li> Mark - C </li>
+                  <li> Extending on Information Systems, this subject gives a more detailed insight into the systems development life cycle.  Topics include Gantt and Pert charts, project time estimation and hardware and software selection. </li>
+                </ul> 
+              	<li>DATABASE
+                <ul>
+                  <li> Mark - C </li>
+                  <li> Designing and implementing databases using PostgreSQL and database design and maintenance techniques.  Topics include SQL language commands, normalization and database administration </li>
+                </ul> 
+              	<li>SOFTWARE DEVELOPMENT ENVIRONMENTS
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Development of applications in Delphi 5.  Topics include rapid software development, database use and windows programming.  </li>
+                </ul> 
+              	<li>WEB DEVELOPMENT
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Web design using hand written xhtml and Javascript code.  Topics include cascading style sheets, Javascript and browser compatible, user friendly xhtml design.  </li>
+                </ul> 
+              	<li>GRAPHICS PROGRAMMING
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Programming openGL graphics in C++ using GLUT libraries.  Topics include three dimensional rendering and lighting, three dimensional cartesian mapping and use of advanced data structures to hold graphical objects. </li>
+                </ul> 
+              	<li>SOFTWARE ENGINEERING
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Further extension on the systems development life cycle, with a more practical approach.  Topics include software styling, project management and modular software design. </li>
+                </ul> 
+              	<li>SYSTEMS SOFTWARE
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Study and analysis of operating systems and code compiler functions. Topics include semaphores, parsers(lex and yacc) and memory management.   </li>
+                </ul> 
+              	<li>OBJECT ORIENTED PROGRAMMING
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Advanced use of objects in Java 1.3.1.  Topics include advanced graphical user interfaces, software engineering constructs and data I/O.  </li>
+                </ul> 
+              	<li>ARTIFICIAL INTELLIGENCE
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Creating, implementing and using 'intelligent' computer programs.  Topics include neural networks, genetic algorithms and current advances in artificial intelligence. </li>
+                </ul> 
+              	<li>WEB ENGINEERING
+                <ul>
+                  <li> Mark - B </li>
+                  <li> Programming Perl CGI scripts for use on the world wide web.  Topics include CGI and *nix security, data persistence using cookies and hidden fields and e-commerce. </li>
+                </ul> 
+              	<li>DATA COMMUNICATIONS
+                <ul>
+                  <li> Mark - Available at a later date </li>
+                  <li> Advanced networking theory.  Topics include networking hardware, analysis of networking protocols and routing.</li>
+                </ul> 
+              	<li>ENCRYPTION AND NETWORK SECURITY
+                <ul>
+                  <li> Mark - Available at a later date </li>
+                  <li> Virtually two subjects combined into one.  Encryption covers advance encryption techniques and networking security covering vulnerabilities and fixes in current operating systems.  Topics include encryption algorithms, networking attacks and firewalling. </li>
+                </ul> 
+              	<li>WEB SERVICES
+                <ul>
+                  <li> Mark - Available at a later date </li>
+                  <li> A cutting edge look at the developing web services market. Topics include xml(including xhtml, xsl, dtd, xsd, etc), web service use and various xml applications.  </li>
+                </ul> 	 
+              	<li>MAJOR PROJECT <a name="majorproj" />
+                <ul>
+                  <li> Mark - Available at a later date </li>
+                  <li> A full year project, developing a practical system in a professional style team environment, requiring great cooperation and communication skills.  Developed using the life systems development life cycle, the project is an online system to store, manipulate and display student enrollments and marks for lecturers at La Trobe University.  Additionally students are able to enroll in tutorials online.  The system is written in Perl CGI scripts with a PostgreSQL back end.  <p></li>
+                   
+                    <li><a href="http://redgum.bendigo.latrobe.edu.au/~groupe02/project03/lecturerinterface/login.shtml" target="_blank"> Lecturer Interface </a> Login = pscott - Pass = BUS110 </li>
+                    <li><a href="http://redgum.bendigo.latrobe.edu.au/~groupe02/project03/studentinterface/login.shtml" target="_blank"> Student Interface </a> Login = Minogue - Pass = 01235693</li>
+                   
+                </ul>
+             </ul>
+          </li>        
+       </ul>
+  </li>
+  <br />
+<li> <b> <a href="infotech.gif" target="_blank">Certificate III in Information Technology</a></b> 
+       <ul>
+          <li>Bendigo Regional Institute of Tafe 1999</li>
+          <li>Taken as an extracurricular course after school </li>
+          <li>Modules include
+             <ul>
+               <li> Advance operations in spreadsheets</li>
+               <li> PC peripheral devices </li>
+               <li> Business information processing </li>
+             </ul>
+          </li> 
+       </ul>
+   </li>
+
+<br />
+<br />
+<li> <b> I am now both competent and confident in the following programming languages. </b>
+  <ul>
+    <li> Perl </li>
+    <li> Java </li>
+    <li> C/C++ </li>
+    <li> Delphi </li>
+    <li> BASIC(some knowledge of VB) </li>
+    <li> SQL </li>
+    <li> XHTML </li>
+    <li> JavaScript </li>
+    <li> XML(including XSL, DTD, XSD, etc.) </li>
+    <li> Using OpenGL and GLUT libraries </li>
+    <li> Yacc </li>
+    <li> Lex </li>
+  </ul>
+  </li>
+<br />
+<br />
+<li> <b>Additionally I am adept in the following applications.</b>
+  <ul>
+    <li> Microsoft Office Package </li>
+    <li> Adobe Photoshop </li>
+    <li> Adobe Illustrator </li>
+    <li> The Gimp </li>
+    <li> Vi and ViM </li>
+    <li> Mozilla JavaScript debugger</li>
+    <li> BlueJay </li>
+</ul>
+<br />
+
+
+
+</td>
+</tr>
+</table>
+
+</center>
+
+<img src="cornicebotleft.gif" align="left" hspace="0" vspace="0">
+<img src="cornicebotrigh.gif" align="right" hspace="0" vspace="0">
+</body>
+</html>

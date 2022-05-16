@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/thebru666
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.myspoonfedmonkey.com
+  * I am thebru666 (https://keybase.io/thebru666) on keybase.
+  * I have a public key ASBM6AZPffgg1Cbz2-FtKAULeW-ZhM7ImlBzKBsmvtQyJgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204ce8064f7df820d426f3dbe16d28050b796f9984cec89a5073281b26bed432260a",
+      "host": "keybase.io",
+      "kid": "01204ce8064f7df820d426f3dbe16d28050b796f9984cec89a5073281b26bed432260a",
+      "uid": "fb8ec1d786ff239c4f9dee5b4ae99f19",
+      "username": "thebru666"
+    },
+    "merkle_root": {
+      "ctime": 1560137235,
+      "hash": "eab187c96abe7af06110d1953bf90bdf111504308ebb54e18565e24a5451a07079b20344a328af301d6305ca6ab90e870a68fe540034e567c22191480124a4fc",
+      "hash_meta": "c64462b5cdce0abcd42a32bf46468bd60607477669c4da3d874405629eb1ff58",
+      "seqno": 5540152
+    },
+    "service": {
+      "entropy": "9j3+udF9xenRMcI3nN2zj1eK",
+      "hostname": "www.myspoonfedmonkey.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1560137256,
+  "expire_in": 504576000,
+  "prev": "697b096cc9f4ba1ebac7feb9113eb87f82b38d57b1e7f18d0803aa071deeb34a",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTOgGT334INQm89vhbSgFC3lvmYTOyJpQcygbJr7UMiYKp3BheWxvYWTESpcCB8QgaXsJbMn0uh66x/65ET64f4KzjVex5/GNCAOqBx3us0rEIK6pHeznQ86hp2DAuirYP8AjI5jiL+JzlMD1LLT3wDBDAgHCo3NpZ8RAL25arOGXn8YhATvcwU1zIkF30j6TkIgAZbJ84ULb8bQP6Hx9T8sDvgObPdPBVRql4LPgtarCLl/R+f5tEJNBCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF5s6KfFudViCusLwtghTJ4WiqgiyOSzUKa2ZcLY+JQFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thebru666
+
+==================================================================

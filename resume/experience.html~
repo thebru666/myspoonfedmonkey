@@ -1,0 +1,83 @@
+<html>
+<head>
+<meta content="blendTrans(Duration=1)" http-equiv="Page-Enter">
+</head>
+
+<body bgcolor="#a8afea">
+<img src="cornice.gif" align="left" hspace="0" vspace="0">
+<img src="corniceright.gif" align="right" hspace="0" vspace="0">
+<center>
+<br />
+<br />
+<font size="+4">Experience</font>
+<br />
+
+<table width="60%">
+<tr>
+<td>
+<ul>
+
+  <li> <b> Renaissance Computers </b> 
+       <ul>
+          <li>September 1998 - One Weeks work experience </li>
+          <li>Handling and installing computer hardware </li>
+	  <li>Installing and configuring windows </li>
+       </ul>
+   </li>
+  <br />
+  <li> <b> IGA Supermarkets </b> 
+       <ul>
+          <li>Maryborough: 1997 - 2000; Bendigo: 2000 - 2002; Working largely evenings. </li>
+          <li>Team work atmosphere </li>
+          <li>Requires both communication and cooperation </li>
+          <li>Shelf stacking and tidying </li>
+	  <li>General store maintenance(sweeping, mopping, light replacing, etc) </li>
+          <li>Food handling - fresh vegetables and deli goods </li>
+          <li>Money handling and till operation </li>
+          <li>Customer service </li>
+       </ul>
+   </li>
+
+  <br />
+  <li> <b> Roofwise Australia </b> 
+       <ul>
+          <li>November 2001 - 2003</li>
+          <li>Cold call door to door canvasing, making appointments for quotes </li>
+          <li>Excellent communication skills </li>
+	  <li>Impeccable personal appearance </li>
+	  <li>Enthusiastic approach required </li>
+	  <li>Product Endorsement </li>
+          <li>Extremely polite Phone manner </li>
+       </ul>
+   </li>
+  <br />
+  <li> <b> <a href="http://www.bwc.com.au" target="_blank">Bendigo Web Central </a> </b> 
+       <ul>
+          <li>January-February 2002</li>
+          <li>Web page sales to businesses.</li>
+          <li>Excellent communication skills </li>
+	  <li>Impeccable personal appearance </li>
+	  <li>Enthusiastic approach required </li>
+	  <li>Product Endorsement </li>
+	  <li>Extensive knowledge of web design </li>
+	  <li>Presentations of available packages </li>
+       </ul>
+   </li>
+   <br />
+   <li> <b> <a href="education.html#majorproj"> Major Project </a> </b>
+   </li>
+</ul>
+
+
+
+
+</td>
+</tr>
+</table>
+
+</center>
+
+<img src="cornicebotleft.gif" align="left" hspace="0" vspace="0">
+<img src="cornicebotrigh.gif" align="right" hspace="0" vspace="0">
+</body>
+</html>
